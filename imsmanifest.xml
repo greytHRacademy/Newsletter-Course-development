@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Newsletter_Academic Alliance</langstring>
+          <langstring xml:lang="x-none">Newsletter_Course-development</langstring>
         </title>
       </general>
       <lifecycle>
@@ -52,9 +52,9 @@
   </metadata>
   <organizations default="Newsletter_Academic_Alliance_ORG">
     <organization identifier="Newsletter_Academic_Alliance_ORG">
-      <title>Newsletter_Academic Alliance</title>
+      <title>Newsletter_Course-development</title>
       <item identifier="Newsletter_SCO" isvisible="true" identifierref="__5V0X29yqJAW_RES">
-        <title>Newsletter_Academic Alliance</title>
+        <title>Newsletter_Course-development</title>
       </item>
     </organization>
   </organizations>
@@ -90,4 +90,5 @@
       <file href="lms/scormdriver.js" />
     </resource>
   </resources>
+
 </manifest>
